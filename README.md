@@ -5,7 +5,6 @@
 
 A fun, interactive food decision-maker for groups. Spin the 3D roulette wheel, browse options, pick your vibe — and let fate (or your stomach) decide.
 
-**No API keys. No backend. No accounts. 100% free to deploy.**
 
 ---
 
